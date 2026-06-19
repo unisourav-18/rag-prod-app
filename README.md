@@ -2,11 +2,6 @@
 
 A production-style Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents, index their contents into a vector database, and ask natural language questions based on the document content.
 
-## Live Demo
-
-**Streamlit Deployment:**
-https://dxptksw47xhdrunxl69kbb.streamlit.app/
-
 ## Features
 
 * Upload and process PDF documents
