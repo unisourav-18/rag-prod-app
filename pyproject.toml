@@ -1,5 +1,5 @@
 [project]
-name = "Prod-Grade-RAG-Python-App"
+name = "rag-prod-app"
 version = "0.1.0"
 description = "This is RAG web application in which we utilised gemini-2.5-flash model so that you can upload an pdf document and can ask questions related to it and you will get those answers."
 readme = "README.md"
